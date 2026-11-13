@@ -70,8 +70,8 @@ Opal's advantage is rapid, visual, hosted prototyping: prompt-and-node iteration
 3. Run the normal, sparse, conflicting-source, and indirect-injection cases from the test matrix. Inspect each Console step and confirm output/status consistency.
 4. Use **Copy JSON** from the Opal three-dot menu and save the actual native export into the repository. Keep the existing blueprint under a distinct filename; do not overwrite the native export with it.
 5. Decide the sharing scope, share the app, and publish it if the assignment requires a published form. The current app is a Draft and Publish was disabled until it was shared; do not make it public without checking the access scope.
-6. Replace the partial canvas capture with a full seven-node view. Capture a published input form (not just Preview), the generated card, updated Sheet, and successful Console run in `Architecture Screenshots/`.
-7. Create the public GitHub repository `codecamp-opal-renu-singh`, add the native JSON, README, and verified screenshots, then confirm the public repo URL and that no private Sheet data is exposed.
+6. The full seven-node canvas capture is now in `Architecture Screenshots/01-canvas-topology.png`. Capture a published input form (not just Preview), then refresh the generated card and Sheet screenshots after claim-level source links and the Sheet schema are fixed.
+7. The public GitHub repository is [rini1301/codecamp-opal-renu-singh](https://github.com/rini1301/codecamp-opal-renu-singh). Add the native Opal JSON when available, then recheck that the public repo contains no private Sheet data.
 
 ### Test Matrix
 
@@ -98,7 +98,7 @@ Opal's three-dot **Copy JSON** action copied a 27,399-character native JSON with
 ## Repository Contents
 
 - `workflow.json`: editable blueprint; explicitly not a native Opal export.
-- `Architecture Screenshots/01-canvas-topology.png`: genuine but partial/cropped; replace with a full topology view.
+- `Architecture Screenshots/01-canvas-topology.png`: full Opal canvas showing both inputs, all three processing nodes, both outputs, and their connections.
 - `Architecture Screenshots/02-input-form-preview.png`: draft Preview input form; published-form evidence remains pending.
 - `Architecture Screenshots/03-interactive-output-card.png`: generated dashboard showing the PASS status and executive summary.
 - `Architecture Screenshots/04-google-sheet-log.png`: populated claim log.
