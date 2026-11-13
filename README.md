@@ -103,6 +103,7 @@ Opal's three-dot **Copy JSON** action copied a 27,399-character native JSON with
 - `Architecture Screenshots/03-interactive-output-card.png`: generated dashboard showing the PASS status and executive summary.
 - `Architecture Screenshots/04-google-sheet-log.png`: populated claim log.
 - `Architecture Screenshots/05-opal-console-run.png`: Console step list for the completed run.
+- `Architecture Screenshots/06-app-start-screen.png`: Draft Preview start screen for the Opal app.
 - `Architecture Screenshots/README.md`: evidence status and capture notes.
 
 ## References
