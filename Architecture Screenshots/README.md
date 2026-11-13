@@ -10,6 +10,3 @@ Current evidence status:
 4. `04-google-sheet-log.png` - captured; shows populated claim rows. Visible columns omit source URLs and a repeated header appears mid-sheet.
 5. `05-opal-console-run.png` - captured; shows the Console's completed step list for the run.
 
-Still capture after remediation: the published input form. Consider recapturing the card and Sheet after adding claim-level source URLs and correcting the sheet schema.
-
-Capture the actual project, not a gallery/sample app. Keep source URLs visible where possible, redact account identifiers and sensitive input, and ensure the spreadsheet view shows that a new run was written. Do not fabricate, annotate as proof, or commit screenshots containing private information.
